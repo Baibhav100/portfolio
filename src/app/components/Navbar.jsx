@@ -85,7 +85,7 @@ const Navbar = () => {
                 <FaLinkedinIn/>
                 </div>
                 <div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 duration-200'>
-                <FaGithub/>
+              <a href='https://github.com/'><FaGithub /></a>
                 </div>
                 <div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 duration-200'>
                 <AiOutlineMail/>
