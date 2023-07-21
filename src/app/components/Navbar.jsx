@@ -82,7 +82,7 @@ const Navbar = () => {
               <p className='uppercase tracking-wide text-[#4d4dcd]'>Let's Connect</p>
               <div className='flex items-center justify-between my-4 w-full sm:w-[80%]'>
                 <div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 duration-200'>
-                <FaLinkedinIn/>
+                <a href='https://www.linkedin.com/in/baibhav-rajkumar-3893a5240/'><FaLinkedinIn/></a> 
                 </div>
                 <div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 duration-200'>
               <a href='https://github.com/'><FaGithub /></a>
