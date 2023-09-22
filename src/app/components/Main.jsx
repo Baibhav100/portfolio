@@ -10,7 +10,7 @@ const Main = () => {
                     <p className='uppercase text-sm tracking-widest text-gray-600'>Let's build something together</p>
                     <h1 className='text-gray-800'>Hi, I'm <span className='text-[#294f6c]'>Baibhav</span> </h1>
                     <h1 className='py-2 text-gray-700'>A Front-End Web Developer</h1>
-                    <p className='py-4 text-gray-700 max-w-[70%] mx-auto'>I'm a Front-End Web Developer having the skills in <b>HTML, CSS, JAVASCRIPT</b> mainly.I have learned all the important
+                    <p className='py-4 text-gray-700 max-w-[70%] mx-auto'>I'm a Front-End Web Developer having the skills in <b>HTML, CSS, JAVASCRIPT</b> mainly.I have learnt all the important
                         skills from watching online youtube tutorials which i get online.I, also just started learning a little bit of
                         <b> REACT.js</b> (library of javascript) along with <b>Tailwindcss</b>
                     </p>
